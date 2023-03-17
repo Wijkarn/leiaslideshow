@@ -1,0 +1,21 @@
+#img-container{
+    width: 100%;
+    max-height: 95vh;
+    display: flex;
+    justify-content: center;
+    margin-top: 2.5vh;
+}
+
+img{
+    max-width: 100%;
+    max-height: 95vh;
+}
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+}
