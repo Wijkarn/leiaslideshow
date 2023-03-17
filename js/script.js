@@ -1,4 +1,4 @@
-const images = 65;
+const images = 77;
 let i = 0;
 let seconds = 4; // Change image every x seconds
 let run = true;
