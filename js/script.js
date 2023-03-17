@@ -21,7 +21,7 @@ document.addEventListener("keydown", (event) =>{
 });
 
 function carousel() {
-    if (i != images) {
+    if (i < images) {
         i++;
     }
     else{
